@@ -1,2 +1,0 @@
-# ClonePhoma
-Clone
